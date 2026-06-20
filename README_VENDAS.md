@@ -14,7 +14,7 @@ Você está acessando um dos sistemas mais avançados de compilação e seguran�
 ✅ redacted-compiler-plugin            - PRONTO
 ✅ Sistema PG Agente de IA             - PRONTO
 ✅ 8 Níveis de Códigos Quânticos       - PRONTO
-✅ Código de Autorização #3232         - ATIVO
+✅ Código de Autorização        - ATIVO
 ✅ Pagamento Seguro (Mercado Pago)     - OPERACIONAL
 ```
 
