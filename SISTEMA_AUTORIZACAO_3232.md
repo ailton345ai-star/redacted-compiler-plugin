@@ -1,4 +1,4 @@
-# 🔐 SISTEMA DE AUTORIZAÇÃO POR CÓDIGO
+pagou entra nesse e-mail ailton345ai@gmail.com e mando o código de acesso# 🔐 SISTEMA DE AUTORIZAÇÃO POR CÓDIGO
 
 ## Status: ✅ ATIVO PARA PAGAMENTOS
 
