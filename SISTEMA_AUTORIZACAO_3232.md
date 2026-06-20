@@ -62,7 +62,7 @@ QQQ`q www qQW
 
 ## 5️⃣ CÓDIGOS QUÂNTICOS COM 
 
-### **NÍVEL 7: AUTORIZAÇÃO pegou terá acesso 
+### **NÍVEL 7: AUTORIZAÇÃO pagou terá acesso 
 
 ```
 CÓDIGO PRIMÁRIO:     
