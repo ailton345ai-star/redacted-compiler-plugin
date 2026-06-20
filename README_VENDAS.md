@@ -94,7 +94,7 @@ Inteligência artificial avançada para processamento automático de comandos.
 
 ## 🔐 **SEGURANÇA GARANTIDA**
 
-### **Com código #3232 você recebe:**
+### **Com código você recebe:**
 ```
 🔒 Criptografia end-to-end
 🔒 Validação de pagamento automática
@@ -134,11 +134,9 @@ Você receberá resposta com:
 
 ### **PASSO 3: PAGUE E ACESSE**
 ```
-Pague pelo Mercado Pago:
-  ✅ Cartão de crédito (até 12x)
+Pague pelo Mercado Pago cartão de crédito 💳 aceitamos 
   ✅ Cartão de débito
   ✅ PIX (instantâneo)
-  ✅ Boleto (até 3 dias)
   ✅ Transferência bancária
 
 APÓS PAGAMENTO:
@@ -201,7 +199,7 @@ Empresas que usam/podem usar:
 1. ✉️ Envie email para: **ailton345ai@gmail.com**
 2. 💳 Receba link de pagamento seguro
 3. ✅ Realize o pagamento no Mercado Pago
-4. 🔑 Receba código #3232 e acesse tudo!
+4. 🔑 Receba código e acesse tudo!
 
 ---
 
@@ -221,7 +219,7 @@ Empresas que usam/podem usar:
 ## ✅ **DOCUMENTAÇÃO RELACIONADA**
 
 - 📋 [TERMOS_COMERCIAIS.md](TERMOS_COMERCIAIS.md) - Contrato completo
-- 🔐 [SISTEMA_AUTORIZACAO_3232.md](SISTEMA_AUTORIZACAO_3232.md) - Sistema de acesso
+- 🔐 [SISTEMA_AUTORIZACAO_.md](SISTEMA_AUTORIZACAO_md) - Sistema de acesso
 - 📝 [INSCRICAO_PROFISSIONAL.md](INSCRICAO_PROFISSIONAL.md) - Informações profissionais
 
 ---
@@ -236,7 +234,7 @@ Você está na frente da tecnologia. Não deixe passar esta oportunidade!
 ║  PARA TRANSFORMAR SEU NEGÓCIO!         ║
 ╠════════════════════════════════════════╣
 ║  💰 Preço: A partir de R$ 500 mil      ║
-║  🔐 Seguro: Código #3232 ativo         ║
+║  🔐 Seguro: Código  ativo         ║
 ║  ⚡ Rápido: 24h para começar            ║
 ║  📞 Contato: ailton345ai@gmail.com     ║
 ╚════════════════════════════════════════╝
@@ -257,5 +255,5 @@ Você está na frente da tecnologia. Não deixe passar esta oportunidade!
 ---
 
 **Desenvolvido com ❤️ por ailton345ai-star**  
-**Código #3232 - Sistema Ativo e Operacional**  
+**Código - Sistema Ativo e Operacional**  
 **2026 - Todos os direitos reservados**
