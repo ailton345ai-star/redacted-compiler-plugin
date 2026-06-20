@@ -198,7 +198,7 @@ Com o código você pode:
 ╠════════════════════════════════════════╣
 ║ Data de Ativação: 26/05/2026           ║
 ║ Proprietário: ailton345ai-star         ║
-║ Responsável: Samira Yaya Kim           ║
+║ Responsável:        ║
 ║ Status: 🟢 OPERACIONAL                 ║
 ╚════════════════════════════════════════╝
 ```
