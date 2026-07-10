@@ -2,7 +2,7 @@ cat << 'EOF' > NOTICE.md
 # ⚠️ NOTIFICAÇÃO GERAL DE USO INDEVIDO DE SOFTWARE
 
 O sistema **Quantum Binary Correction System** é de criação e autoria exclusiva de **Ailton Costa da Silva**. 
-Qualquer uso não autorizado deve ser regularizado através do e-mail: auto345ai@gmail.com
+Qualquer uso não autorizado deve ser regularizado através do e-mail: ailton345jpe@gmail.com
 EOF
 redacted-compiler-plugin
 ========================
